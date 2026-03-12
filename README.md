@@ -1,2 +1,2 @@
 # BergCubesApp
-An open-source app for Codeberg, built with Flutter
+An open-source app for Codeberg
